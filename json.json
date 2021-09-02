@@ -1,0 +1,37 @@
+{
+	"students": [{
+			"name": "anisul islam",
+			"middlename": null,
+			"age": 32,
+			"cgpa": 3.5,
+			"isRegistered": true,
+			"langueges": ["english", "bangla", "hindi"],
+			"friends": [{
+					"name": "saruar",
+					"age": 25
+				},
+				{
+					"name": "rasel",
+					"age": 25
+				}
+			]
+		},
+		{
+			"name": "anisul islam",
+			"middlename": null,
+			"age": 32,
+			"cgpa": 3.5,
+			"isRegistered": true,
+			"langueges": ["english", "bangla", "hindi"],
+			"friends": [{
+					"name": "saruar",
+					"age": 25
+				},
+				{
+					"name": "rasel",
+					"age": 25
+				}
+			]
+		}
+	]
+}
